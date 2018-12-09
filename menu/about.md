@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sobre mí
+title: About me
 ---
 
 AxiomHate es mi proyecto personal de divulgación. En este espacio pretendo compartir posts hablando sobre diversos temas de ciencia con especial interés en matemáticas, computación o inteligencia artificial. Además, compartiré cosas relacionadas de otros proyectos. 
 
-### wizmik12
+### Sobre mí
 
 <img src="/assets/img/perfil.JPG" alt="foto_perfil" width="250"/>
 
