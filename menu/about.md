@@ -7,7 +7,7 @@ AxiomHate es mi proyecto personal de divulgación. En este espacio pretendo comp
 
 ### wizmik12
 
-![Perfil](/assets/img/perfil.JPG =125x)
+<img src="/assets/img/perfil.JPG" alt="foto_perfil" width="125"/>
 
 Mi nombre es Miguel ([@wizmik12](https://www.twitter.com/wizmik12)) y soy graduado en matemáticas por la UGR. También tengo un master en ciencia de datos por la misma universidad. Actualmente me encuentro realizando el doctorado en desarrollo de métodos probabilísticos con el propósito de mejorar la detección de cáncer en imágenes histológicas.
 
