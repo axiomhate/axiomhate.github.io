@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Sobre mí
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+AxiomHate es mi proyecto personal de divulgación. En este espacio pretendo compartir posts hablando sobre diversos temas de ciencia con especial interés en matemáticas, computación o inteligencia artificial. Además, compartiré cosas relacionadas que tengo con otros proyectos como [@TheFluxions](https://twitter.com/thefluxions).
 
-### Getting Started
+### wizmik12
 
 [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
